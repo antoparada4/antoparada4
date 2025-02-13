@@ -6,7 +6,7 @@
 - 📈 Cryptocurrency enthusiast
 
 ### Tech stack (Skills)
-![image](https://github.com/user-attachments/assets/9d53e0f3-97d6-449d-88aa-f6b484fed2c0)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,docker,flutter&perline=3)](https://skillicons.dev)
 
 
 - Python
