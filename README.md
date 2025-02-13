@@ -1,5 +1,5 @@
 # Hello there! I'm Antonio Parada 👋
-![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://github.com/user-attachments/assets/696b2b9c-c0d3-4493-a724-bc0d9bf7fc27)
+![github_banner](https://github.com/user-attachments/assets/4d375acb-8f8f-41db-99d6-877265ce7ee8)
 
 ### About me
 - 💻 Machine Learning Engineer at [Biotical Foundation](#)
