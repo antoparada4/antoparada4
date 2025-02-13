@@ -6,8 +6,8 @@
 - 📈 Cryptocurrency enthusiast
 
 ### Tech stack (Skills)
+![image](https://github.com/user-attachments/assets/9d53e0f3-97d6-449d-88aa-f6b484fed2c0)
 
-![image](https://github.com/user-attachments/assets/d8f1bed0-9b98-4707-952d-2d8d6ef933d2)
 
 - Python
 - Flutter
