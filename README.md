@@ -1,6 +1,8 @@
 # Hello there! I'm Antonio Parada 👋
 
 ### About me
-- [icon] Machine Learning Engineer at [@bioticalfoundation]()
-- [icon] Flutter Developer at [@niuapp](https://www.niuapp.io/sv)
-- [icon] Cryptocurrency enthusiast
+- 💻 Machine Learning Engineer at [@bioticalfoundation]()
+- 📱 Flutter Developer at [@niuapp](https://www.niuapp.io/sv)
+- 📈 Cryptocurrency enthusiast
+
+  ### Tech stack (Skills)
