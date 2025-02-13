@@ -6,12 +6,4 @@
 - 📈 Cryptocurrency enthusiast
 
 ### Tech stack (Skills)
-[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,docker,flutter&perline=3)](https://skillicons.dev)
-
-
-- Python
-- Flutter
-- Docker
-- Kubernetes
-- AWS
-- GCP
+[![My Skills](https://skillicons.dev/icons?i=python,flutter,js,docker,aws,gcp&perline=3)](https://skillicons.dev)
