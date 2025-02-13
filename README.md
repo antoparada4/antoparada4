@@ -1,5 +1,6 @@
-# Hello there! I'm Antonio Parada 👋
 ![github_banner](https://github.com/user-attachments/assets/4d375acb-8f8f-41db-99d6-877265ce7ee8)
+
+# <p style="text-align: center;"> Hi there! Welcome to a piece of my mind 👋 </p>
 
 ### About me
 - 💻 Machine Learning Engineer at [Biotical Foundation](#)
