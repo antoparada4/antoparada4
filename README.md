@@ -3,8 +3,8 @@
 # <p style="text-align: center;"> Hi there! Welcome to a piece of my mind 👋 </p>
 
 ### About me
-- 💻 Machine Learning Engineer at [Biotical Foundation](#)
-- 📱 Flutter Developer at [Niu App](https://www.niuapp.io/sv)
+- 📱 Mobile Engineer at [Niu App](https://www.niuapp.io/sv)
+- 🌟Machine Learning Engineer at [Biotical Foundation](#)
 - 📈 Cryptocurrency enthusiast
 
 ### My skills
