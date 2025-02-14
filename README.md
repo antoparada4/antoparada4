@@ -4,7 +4,7 @@
 
 ### About me
 - 📱 Mobile Engineer at [Niu App](https://www.niuapp.io/sv)
-- 🌟Machine Learning Engineer at [Biotical Foundation](#)
+- 🌟Founder & ML Engineer at [Biotical Foundation](#)
 - 📈 Cryptocurrency enthusiast
 
 ### My skills
